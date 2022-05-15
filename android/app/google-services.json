@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "907631520400",
+    "firebase_url": "https://aypro-7981f-default-rtdb.firebaseio.com",
+    "project_id": "aypro-7981f",
+    "storage_bucket": "aypro-7981f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907631520400:android:29e213507a007649df0615",
+        "android_client_info": {
+          "package_name": "com.parkyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907631520400-n38bgia8t7o3950ameg4gqusr8fhrqnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHZJIyQfIN1q3VAuqzdfT8PdIC3eWfi48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907631520400-n38bgia8t7o3950ameg4gqusr8fhrqnl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
